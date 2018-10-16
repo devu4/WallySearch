@@ -1,0 +1,16 @@
+﻿Build started 22/12/2016 11:30:09.
+     1>Project "C:\Users\Dave\Desktop\WallySearch\WallySearch\WallySearch.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dave\Desktop\WallySearch\Debug\WallySearch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Dave\Desktop\WallySearch\Debug\WallySearch.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dave\Desktop\WallySearch\Debug\WallySearch.lib" /MACHINE:X86 Debug\BaseImg.obj
+         Debug\LargeImg.obj
+         Debug\Main.obj
+         Debug\MatchImg.obj
+         WallySearch.vcxproj -> C:\Users\Dave\Desktop\WallySearch\Debug\WallySearch.exe
+     1>Done Building Project "C:\Users\Dave\Desktop\WallySearch\WallySearch\WallySearch.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.04
